@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Fellipe Kock 👋
 
-<!--
-**fellipekock-dev/fellipekock-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, cursando Técnico em Informática no CEET Vasco Coutinho (2º módulo).
 
-Here are some ideas to get you started:
+## 💻 Tecnologias
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Além do código
+Estagio em Gestão de Tráfego Pago (Meta Ads), trabalhando com campanhas, públicos, criativos e relatórios. Também sei fazer manutenção de computadores: troca de peças, limpeza, formatação, instalação e suporte.
+
+## 🌎 Idiomas
+Inglês técnico e inglês básico em andamento.
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/fellipe-kock-rangel-a71b993b9) · [Instagram](https://www.instagram.com/fellipekock) · fellipekock@gmail.com · WhatsApp: (27) 99695-1416
